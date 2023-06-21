@@ -4,7 +4,7 @@
 
 <\body>
   <\with|par-mode|center>
-    <with|font-base-size|12|Respostas - Máximo Divisor Comum>
+    <with|font-base-size|12|Respostas - 1 - MDC>
   </with>
 
   <\with|font-base-size|12>

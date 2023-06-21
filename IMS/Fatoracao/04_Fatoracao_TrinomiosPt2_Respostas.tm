@@ -1,83 +1,102 @@
-<TeXmacs|1.0.7.3>
+<TeXmacs|2.1>
 
-<style|generic>
+<style|<tuple|generic|old-spacing|old-dots|old-lengths>>
 
 <\body>
   <\with|par-mode|center>
-    <with|font-base-size|12|Answers - Trinomials where a = 1>
+    <with|font-base-size|12|Respostas - Trinomios onde
+    <math|a<math|\<neq\>>1>>
   </with>
 
   <\with|par-columns|3>
     <\with|font-base-size|12>
-      1) <math|(p+9)(p+8)>\ 
+      1) <math|<around|(|7x-6|)><around|(|x-6|)>>\ 
 
-      2) <math|(x-8)(x+9)>
+      2) <math|<around|(|7n-2|)><around|(|n-6|)>>
 
-      3) <math|(n-8)(n-1)>
+      3) <math|<around|(|7b+1|)><around|(|b+2|)>>
 
-      4) <math|(x-5)(x+6)>
+      4) <math|<around|(|7v+4|)><around|(|v-4|)>>
 
-      5) <math|(x+1)(x-10)>
+      5) <math|<around|(|5a+7|)><around|(|a-4|)>>
 
-      6) <math|(x+5)(x+8)>
+      6) <math|Prime>
 
-      7) <math|(b<rsub|>+8)(b+4)>
+      7) <math|<around|(|2x-1|)><around|(|x-2|)>>
 
-      8) <math|(b-10)(b-7)>
+      8) <math|<around|(|3r+2|)><around|(|r-2|)>>
 
-      9) <math|(x-7)(x+10)>
+      9) <math|<around|(|2x+5|)><around|(|x+7|)>>
 
-      10) <math|(x-3)(x+6)>
+      10) <math|<around|(|7x-6|)><around|(|x+5|)>>
 
-      11) <math|(n-5)(n-3)>
+      11) <math|<around|(|2b-3|)><around|(|b+1|)>>
 
-      12) <math|(a+3)(a-9)>
+      12) <math|<around|(|5k-6|)><around|(|k-4|)>>
 
-      13) <math|(p+6)(p+9)>
+      13) <math|<around|(|5k+3|)><around|(|k+2|)>>
 
-      14) <math|(p+10)(p-3)>
+      14) <math|<around|(|3r+7|)><around|(|r+3|)>>
 
-      15) <math|(n-8)(n-7)>
+      15) <math|<around|(|3x-5|)><around|(|x-4|)>>
 
-      16) <math|(m-5n)(m-10n)>
+      16) <math|<around|(|3u-2v|)><around|(|u+5v|)>>
 
-      17) <math|(u-5v)(u-3v)>
+      17) <math|<around|(|3x+2y|)><around|(|x+5y|)>>
 
-      18) <math|(m+5n)(m-8n)>
+      18) <math|<around|(|7x+5y|)><around|(|x-y|)>>
 
-      19) <math|(m+4n)(m-2n)>
+      19) <math|<around|(|5x-7y|)><around|(|x+7y|)>>
 
-      20) <math|(x+8y)(x+2y)>
+      20) <math|<around|(|5u-4v|)><around|(|u+7v|)>>
 
-      21) <math|(x-9y)(x-2y)>
+      21) <math|3<around|(|2x+1|)><around|(|x-7|)>>
 
-      22) <math|(u-7v)(u-2v)>
+      22) <math|2<around|(|5a+3|)><around|(|a-6|)>>
 
-      23) <math|(x-3y)(x+4y)>
+      23) <math|3<around|(|7k+6|)><around|(|k-5|)> >
 
-      24) <math|(x+5y)(x+9y)>
+      24) <math|3<around|(|7n-6|)><around|(|n+3|)>>
 
-      25) <math|(x+6y)(x-2y)>
+      25) <math|2<around|(|7x-2|)><around|(|x-4|)>>
 
-      26) <math|4(x+7)(x+6)>
+      26) <math|<around|(|r+1|)><around|(|4r-3|)>>
 
-      27) <math|5(a+10)(a+2)>
+      27) <math|<around|(|x+4|)><around|(|6x+5|)>>
 
-      28) <math|5(n-8)(n-1)>
+      28) <math|<around|(|3p+7|)><around|(|2p-1|)>>
 
-      29) <math|6(a-4)(a+8)>
+      29) <math|<around|(|k-4|)><around|(|4k-1|)>>
 
-      30) <math|5(v-1)(v+5)>
+      30) <math|<around|(|r-1|)><around|(|4r+7|)>>
 
-      31) <math|6(x+2y)(x+y)>
+      31) <math|<around|(|x+2y|)><around|(|4x+y|)>>
 
-      32) <math|5(m<rsup|2>+6m n-18n<rsup|2>)>
+      32) <math|2<around|(|2m<rsup|2>+3m n+3n<rsup|2>|)>>
 
-      33) <math|6(x+9y)(x+7y)>
+      33) <math|<around|(|m-3n|)><around|(|4m+3n|)>>
 
-      34) <math|6(m-9n)(m+3n)>
+      34) 2<math|<around|(|2x<rsup|2>-3x y+15y<rsup|2>|)>>
+
+      35) <math|<around|(|x+3y|)><around|(|4x+y|)>>
+
+      36) <math|3<around|(|3u+4v|)><around|(|2u-3v|)>>
+
+      37) <math|2<around|(|2x+7y|)><around|(|3x+5y|)>>
+
+      38) <math|4<around|(|x+3y|)><around|(|4x+3y|)>>
+
+      39) <math|4<around|(|x-2y|)><around|(|6x-y|)>>
+
+      40) <math|2<around|(|3x+2y|)><around|(|2x+7y|)>>
 
       \;
     </with>
   </with>
 </body>
+
+<\initial>
+  <\collection>
+    <associate|par-hyphen|normal>
+  </collection>
+</initial>

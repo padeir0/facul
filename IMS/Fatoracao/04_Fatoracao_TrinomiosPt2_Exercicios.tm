@@ -1,83 +1,104 @@
-<TeXmacs|1.0.7.3>
+<TeXmacs|2.1>
 
-<style|generic>
+<style|<tuple|generic|old-spacing|old-dots|old-lengths>>
 
 <\body>
-  <doc-data|<doc-title|6.3 Practice - Trinomials where a = 1>>
+  <doc-data|<doc-title|4 Exercicios - Trinomios onde
+  <math|a<math|\<neq\>>1>>>
 
-  <strong|<with|font-base-size|12|Factor each completely.>>
+  <strong|<with|font-base-size|12|Fatore cada expressão completamente.>>
 
   <\with|par-columns|2>
     <\with|font-base-size|12>
-      1) <math|p<rsup|2>+17p+72>
+      1) <math|7x<rsup|2>-48x+36>
 
-      3) <math|n<rsup|2>-9n+8>
+      3) <math|7b<rsup|2>+15b+2>
 
-      5) <math|x<rsup|2>-9x-10>
+      5) <math|5a<rsup|2>-13a-28>
 
-      7) <math|b<rsup|2>+12b+32>
+      7) <math|2x<rsup|2>-5x+2>
 
-      9) <math|x<rsup|2>+3x-70>
+      9) <math|2x<rsup|2>+19x+35>
 
-      11) <math|n<rsup|2>-8n+15>
+      11) <math|2b<rsup|2>-b-3>
 
-      13) <math|p<rsup|2>+15p+54>
+      13) <math|5k<rsup|2>+13k+6>
 
-      15) <math|n<rsup|2>-15n+56>
+      15) <math|3x<rsup|2>-17x+20>
 
-      17) <math|u<rsup|2>-8u v+15v<rsup|2>>
+      17) <math|3x<rsup|2>+17x y+10y<rsup|2>>
 
-      19) <math|m<rsup|2>+2m n-8n<rsup|2>>
+      19) <math|5x<rsup|2>+28x y-49y<rsup|2>>
 
-      21) <math|x<rsup|2>-11x y+18y<rsup|2>>
+      21) <math|6x<rsup|2>-39x-21>
 
-      23) <math|x<rsup|2>+x y-12y<rsup|2>>
+      23) <math|21k<rsup|2>-87k-90>
 
-      25) <math|x<rsup|2>+4x y-12y<rsup|2>>
+      25) <math|14x<rsup|2>-60x+16>
 
-      27) <math|5a<rsup|2>+60a+100>
+      27) <math|6x<rsup|2>+29x+20>
 
-      29) <math|6a<rsup|2>+24a-192>
+      29) <math|4k<rsup|2>-17k+4>
 
-      31) <math|6x<rsup|2><rsub|>+18x y+12y<rsup|2>>
+      31) <math|4x<rsup|2>+9x y+2y<rsup|2>>
 
-      33) <math|6x<rsup|2>+96x y+378y<rsup|2>>
+      33) <math|4m<rsup|2>-9m n-9n<rsup|2>>
 
-      2) <math|x<rsup|2><rsub|>+x-72>
+      35) <math|4x<rsup|2>+13x y+3y<rsup|2>>
 
-      4) <math|x<rsup|2>+x-30>
+      37) <math|12x<rsup|2>+62x y+70y<rsup|2 >>
 
-      6) <math|x<rsup|2>+13x+40>
+      39) <math|24x<rsup|2>-52x y+8y<rsup|2>>
 
-      8) <math|b<rsup|2>-17b+70>
+      \;
 
-      10) <math|x<rsup|2>+3x-18>
+      2) <math|7n<rsup|2>-44n+12>
 
-      12) <math|a<rsup|2>-6a-27>
+      4) <math|7v<rsup|2>-24v-16>
 
-      14) <math|p<rsup|2>+7p-30>
+      6) <math|5n<rsup|2>-4n-20>
 
-      16) <math|m<rsup|2>-15m n+50n<rsup|2>>
+      8) <math|3r<rsup|2>-4r-4>
 
-      18) <math|m<rsup|2>-3m n-40n<rsup|2>>
+      10) <math|7x<rsup|2>+29x-30>
 
-      20) <math|x<rsup|2>+10x y+16y<rsup|2>>
+      12) <math|5k<rsup|2>-26k+24>
 
-      22) <math|u<rsup|2>-9u v+14v<rsup|2>>
+      14) <math|3r<rsup|2>+16r+21>
 
-      24) <math|x<rsup|2>+14x y+45y<rsup|2>>
+      16) <math|3u<rsup|2>+13u v-10v<rsup|2>>
 
-      26) <math|4x<rsup|2>+52x+168>
+      18) <math|7x<rsup|2>-2x y-5y<rsup|2>>
 
-      28) <math|5n<rsup|2>-45n+40>
+      20) <math|5u<rsup|2>+31u v-28v<rsup|2>>
 
-      30) <math|5v<rsup|2>+20v-25>
+      22) <math|10a<rsup|2>-54a-36>
 
-      32) <math|5m<rsup|2>+30m n-90n<rsup|2>>
+      24) <math|21n<rsup|2>+45n-54>
 
-      34) <math|6m<rsup|2>-36m n - 162n<rsup|2>>
+      26) <math|4r<rsup|2>+r-3>
+
+      28) <math|6p<rsup|2>+11p-7>
+
+      30) <math|4r<rsup|2>+3r-7>
+
+      32) <math|4m<rsup|2>+6m n+6n<rsup|2>>
+
+      34) <math|4x<rsup|2>-6x y+30y<rsup|2>>
+
+      36) <math|18u<rsup|2>-3u v-36v<rsup|2>>
+
+      38) <math|16x<rsup|2>+60x y+36y<rsup|2>>
+
+      40) <math|12x<rsup|2>+50x y+28y<rsup|2>>
 
       \;
     </with>
   </with>
 </body>
+
+<\initial>
+  <\collection>
+    <associate|par-hyphen|normal>
+  </collection>
+</initial>

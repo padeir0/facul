@@ -1,12 +1,11 @@
-<TeXmacs|1.0.7.3>
+<TeXmacs|2.1>
 
-<style|generic>
+<style|<tuple|generic|old-spacing|old-dots|old-lengths>>
 
 <\body>
-  <doc-data|<doc-title|6.1 Practice - Greatest Common Factor>>
+  <doc-data|<doc-title|1 Exercicios - MDC>>
 
-  <strong|<with|font-base-size|12|Factor the common factor out of each
-  expression.>>
+  <strong|<with|font-base-size|12|Fatore o fator comum de cada expressão.>>
 
   <\with|font-base-size|12>
     <\with|par-columns|2>
@@ -78,3 +77,9 @@
     </with>
   </with>
 </body>
+
+<\initial>
+  <\collection>
+    <associate|par-hyphen|normal>
+  </collection>
+</initial>

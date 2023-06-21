@@ -1,11 +1,11 @@
-<TeXmacs|1.0.7.3>
+<TeXmacs|2.1>
 
-<style|generic>
+<style|<tuple|generic|old-spacing|old-dots|old-lengths>>
 
 <\body>
-  <doc-data|<doc-title|6.2 Practice - Grouping>>
+  <doc-data|<doc-title|2 Exercicios - Agrupamento>>
 
-  <strong|<with|font-base-size|12|Factor each completely.>>
+  <strong|<with|font-base-size|12|Fatore cada expressão completamente.>>
 
   <\with|par-columns|2>
     <\with|font-base-size|12>
@@ -63,7 +63,13 @@
 
       26) <math|56a b+14-49a-16b>
 
-      \ <math|>
+      \ 
     </with>
   </with>
 </body>
+
+<\initial>
+  <\collection>
+    <associate|par-hyphen|normal>
+  </collection>
+</initial>
