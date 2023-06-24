@@ -144,7 +144,7 @@
     Relacione os conjuntos <math|A> e <math|B>
 
     <\enumerate-alpha>
-      <item><math|A=<around*|{|x\<in\>\<bbb-Z\><around*|\||z\<less\>4|\<nobracket\>>|}>>
+      <item><math|A=<around*|{|x\<in\>\<bbb-Z\><around*|\||x\<less\>4|\<nobracket\>>|}>>
       e <math|B=<around*|{|x\<in\>\<bbb-Z\><around*|\||x<rsup|2>|\<nobracket\>>\<less\>15|}>>
 
       <\solution*>
@@ -229,7 +229,7 @@
     <with|font-series|bold|(d)> sabemos que <math|1\<in\>A> e
     <math|1\<in\>C>, analogamente com <math|2>. Pelo item
     <with|font-series|bold|(e)>, sabemos que <math|4> existe tanto em
-    <math|A> quanto <math|B>. Por fim, podemos pegar as demais relações de
+    <math|B> quanto <math|C>. Por fim, podemos pegar as demais relações de
     união dadas e adicionar os elementos faltantes em qualquer um dos
     conjuntos constituintes.
 

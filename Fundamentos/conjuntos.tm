@@ -11,6 +11,14 @@
     <assign|solution-text|<macro|<localize|Solução>>>
   </hide-preamble>
 
+  <doc-data|<doc-title|Conjuntos>>
+
+  Tomamos conjuntos, elementos e a relação de pertencer a um conjunto como
+  conceitos primitivos que não serão definidos. Por convenção, conjuntos são
+  representados por letras maiúsculas (<math|A>, <math|B>, <math|C>, etc),
+  enquanto elementos são representados por letras minúsculas (<math|a>,
+  <math|b>, <math|c>, etc).
+
   <\definition>
     <math|A> e <math|B> são iguais se possuem os mesmos elementos, denotado
     como <math|A=B>. Analogamente, dois conjuntos são diferentes se pelo
