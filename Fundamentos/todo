@@ -1,1 +1,6 @@
 TODO: operacoes_conjuntos.tm: Provar proposições de 9 a 14
+
+TODO: Prove que 3 planos ortogonais dois a dois sempre se intercedem em um unico ponto.
+TODO: Prove que 3 planos tem seus vetores normais linearmente independentes se, e somente se, eles se intercedem em um unico ponto.
+TODO: Prove que a interceção de duas esféras é ou um unico ponto ou um circulo.
+TODO: Dados 3 circulos que se intercedem dois a dois cujos centros sejam colineares, prove que os eixos radicais comuns são sempre paralelos.
